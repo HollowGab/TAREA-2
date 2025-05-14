@@ -13,7 +13,7 @@ void main()
     printf("Escribe los %d numeros de la lista:\n", N);
     while (i<N)
     {
-        printf("Elemento %d: ", i + 1);
+        printf("Numero %d: ", i + 1);
         scanf("%d", &A[i]);
         i++;
     } 
