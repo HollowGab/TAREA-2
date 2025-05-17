@@ -7,7 +7,7 @@ int main()
     int i, num;
     int positivos = 0, negativos = 0, nulos = 0;
 
-    for (i = 0; i < 10; i++) 
+    for (i = 0; i < 100; i++) 
     {
         printf("Ingrese el número %d: ", i + 1);
         scanf("%d", &num);
