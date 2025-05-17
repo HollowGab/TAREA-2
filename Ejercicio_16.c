@@ -1,6 +1,6 @@
 //Arellanes Aniceto Gabriel 
 // Ejercicio_16: Primero 100 numeros pares
-include <stdio.h>
+#include <stdio.h>
 void main() 
 {
     int P[100];
